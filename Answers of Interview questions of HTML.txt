@@ -1,0 +1,60 @@
+1. HTML  stands for hyper text markup language .
+HTML is simple and  user friendly markup language which can be used to define the structure of the webpage.
+
+2. 6 types of heading 
+
+3. <a> Anchor tag
+
+4. Structure is basically the format in which we are designing our webpage  by placing the components.
+ Layout is the look and feel of the webpage i.e., overall appearance which  would be visible in the form of output.
+
+5. <br> tag is used to beeak the line and come to the next line
+
+6. Tage are of two type- open nd closing tag. 
+Tag is a bracket which can store the functions or the elements of HTML CSS and Javascipt.
+
+7. The syntax of the html is :
+ <html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+8. There are two types of listing -- Ordered listing and Unordered Listing.
+
+9. <p> is used for the paragraph.
+
+10. Section is that part of the webpage which can store various elemnts for eg img , div etc. 
+And Div is an element which 
+
+11.  We use <table></table> tags which will store the following elemnts 
+<tr>  -- Table Row
+<th> -- Table heading 
+<td> -- Table Data 
+
+12. Comments are very useful elemnts which we can use for making our code easily understandable and whatever written inside the comments will not get print in the output.
+We can use Ctrl + ? as a shortcut key to add comments in the webpage.
+
+13. HTML 5 is the latest version of the html.
+
+14. An image map is consist of an image with clickable areas, where you can click on the image, and it will open to new or the provided destination. 
+
+15.  Void elements are self-closing, so they do not have a closing tag.  A void element cannot have any content but may have attributes. 
+eg - <br> , <hr> , <img> , <input>
+
+16. The class is an attribute which can be used to specify a name or identity to that element . The class attribute is mostly used to point to a class while designing in CSS.
+ However, it is be used to make changes to HTML elements with a specified class.
+
+17.   Layout is the look and feel of the webpage i.e., overall appearance which  would be visible in the form of output.
+
+18. HTML is simple and  user friendly markup language which can be used to define the structure of the webpage. It is generally use to create the webpage which alows us to insert various other fields like image , audio, hyperlinks, tables, videos, animations , etc to make  our website look more attractive.
+It is the basic part of web development.
+
+19. The <cite> tag defines the title of our web-page, which would be visible on the widow tab our web browser.
+
+20. Inline elements are those which takes only that much space which is available based on the content defining  the element rather than breaking the flow of the content.
+They do not shift the text after them to a new line.  For eg.  anchor <a> tag. 
+
+
+
